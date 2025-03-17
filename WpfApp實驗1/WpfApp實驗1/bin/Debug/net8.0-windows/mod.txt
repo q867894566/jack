@@ -1,0 +1,4 @@
+Icon=C:\Path\To\Icon.png
+Name=CustomApp
+FunctionBarPosition=Left
+Buttons=Add:Button 3,Edit:Button 1:New Button 1,Delete:Button 2,Order:Button 3|New Button 1
